@@ -1,4 +1,4 @@
-### Aplicacion: PokeBuild maker
+### Aplicacion: PokeBuild Maker
 
 ### Estado: Finalizado
 ![gif](https://github.com/Villanueva-Flavio/TP_IDS_Pokebuild-Maker/assets/78744163/440ad541-99c1-4a19-a6c0-082df28d2999)
