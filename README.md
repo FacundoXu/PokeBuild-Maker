@@ -1,13 +1,10 @@
-
-# TP grupal de Introducción al desarrollo de software
-
-### Aplicacion: Pokebuild maker
+### Aplicacion: PokeBuild maker
 
 ### Estado: Finalizado
 ![gif](https://github.com/Villanueva-Flavio/TP_IDS_Pokebuild-Maker/assets/78744163/440ad541-99c1-4a19-a6c0-082df28d2999)
 
 
-Estado: Aprobado, pero a que costo?
+
 
 #### Descripcion:
 
